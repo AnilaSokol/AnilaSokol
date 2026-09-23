@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alina, a full-time graduate student at WWU 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on getting my MS in CS  
+- 🔭 I’m in my last year of working on getting my MS in CS  
   
 
 - 🌱 I’m currently learning Operating Systems Internals
