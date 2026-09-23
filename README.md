@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on getting my MS in CS  
   
 
-- 🌱 I’m currently learning automata & formal language theory and reinforcement learning  
+- 🌱 I’m currently learning Operating Systems Internals
   
 
 - ⚡ Hobbies: drawing, reading, gaming(HSR, Genshin, ZZZ, Tears of Themis, etc.)  
